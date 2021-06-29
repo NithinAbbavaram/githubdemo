@@ -7,3 +7,6 @@ Git branch
 Git branch -a()
 Git Fetch
 Git Fetch -a
+git clone
+git pull
+git push
